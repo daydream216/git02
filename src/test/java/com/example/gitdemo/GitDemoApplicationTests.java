@@ -9,6 +9,7 @@ class GitDemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("abcd...............");
+        System.out.println("分支。。。。。。。。。。");
     }
 
 }
